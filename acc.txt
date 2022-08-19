@@ -10,3 +10,7 @@ First name: MD
  Last name: Powe4rs
  ID:cohort3
  Password: 123 
+First name: MD
+ Last name: Powers
+ ID:cohort3
+ Password: eiei 
