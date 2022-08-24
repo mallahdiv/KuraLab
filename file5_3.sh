@@ -2,7 +2,7 @@
 
 
 
-ps -e --format ppid,pid,%cpu,%mem,cmd
+ps -e --format ppid,pid,%cpu,%mem,cmd > cpu_mem.txt
 
 git add file5_3.sh
 git commit -m "Dia5_3"
