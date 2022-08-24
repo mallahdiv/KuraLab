@@ -42,3 +42,15 @@ First name: MD
  Last name: Powers
  ID:cohort3
  Password: jack34 
+First name: Md
+ Last name: Powers
+ ID:cohort3
+ Password: Ankobia1@ 
+First name: ld
+ Last name: ldl
+ ID:cohort3
+ Password: AnAnAnkobia1# 
+First name: MD
+ Last name: Powers
+ ID:cohort3
+ Password: Ankobiq1 
